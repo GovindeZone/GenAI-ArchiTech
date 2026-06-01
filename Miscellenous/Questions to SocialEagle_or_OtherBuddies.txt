@@ -1,0 +1,1 @@
+1. once I run the program, and turn to terminal, it keeps running, until we use "ctrl+c" to break it - is anyother way ?
